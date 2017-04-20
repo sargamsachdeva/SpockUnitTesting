@@ -1,0 +1,7 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="com.im.test.PersonSpec" tests="1" failures="0" errors="0" timestamp="2017-04-20T10:54:47" hostname="sargam-sachdeva" time="0.037">
+  <properties/>
+  <testcase name="First test" classname="com.im.test.PersonSpec" time="0.037"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

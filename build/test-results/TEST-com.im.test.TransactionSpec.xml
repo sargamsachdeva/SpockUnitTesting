@@ -1,0 +1,8 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="com.im.test.TransactionSpec" tests="2" failures="0" errors="0" timestamp="2017-04-20T10:54:48" hostname="sargam-sachdeva" time="0.094">
+  <properties/>
+  <testcase name="We are able to cancel a sale" classname="com.im.test.TransactionSpec" time="0.078"/>
+  <testcase name="Customer discount is calculated for a product" classname="com.im.test.TransactionSpec" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
